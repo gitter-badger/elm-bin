@@ -1,5 +1,7 @@
 # elm-bin [![Build Status](https://travis-ci.org/kevva/elm-bin.svg?branch=master)](http://travis-ci.org/kevva/elm-bin)
 
+[![Join the chat at https://gitter.im/0xR/elm-bin](https://badges.gitter.im/0xR/elm-bin.svg)](https://gitter.im/0xR/elm-bin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Binary wrapper for [elm-platform](https://github.com/elm-lang/elm-platform)
 
 
